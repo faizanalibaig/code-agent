@@ -1,3 +1,8 @@
+Requirememts:
+  - streamlit
+  - openai
+  - python-dotenv
+
 Streamlit:
   installation:
     - pip install streamlit
